@@ -24,33 +24,14 @@ To run the application locally, follow these steps:
    git clone https://github.com/Ankit-Ghosh/Shopwave.git
    ```
 
-2. Navigate to the `frontend` directory and install dependencies:
+2. Navigate to the `shopwave` directory and install dependencies:
 
    ```
-   cd frontend
+   cd shopwave
    npm install
+   npm run dev
    ```
-
-3. Start the frontend server:
-
-   ```
-   npm start
-   ```
-
-4. Open another terminal, navigate to the `backend` directory, and install dependencies:
-
-   ```
-   cd ../backend
-   npm install
-   ```
-
-5. Start the backend server:
-
-   ```
-   npm start
-   ```
-
-6. The application should now be running locally. Access it at `http://localhost:3000` in your web browser.
+3. The application should now be running locally. Access it at `http://localhost:3000` in your web browser.
 
 ## Screenshots
  - Home Page
