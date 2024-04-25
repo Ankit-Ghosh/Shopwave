@@ -75,6 +75,8 @@ To run the application locally, follow these steps:
 ![Payment Portal](https://github.com/Ankit-Ghosh/Shopwave/assets/114979946/4c9add9e-b769-42be-beed-b868e686cb62)
 
 - Payment Successful
+
+
 ![Payment Successful](https://github.com/Ankit-Ghosh/Shopwave/assets/114979946/8b13f7ea-1a8f-459d-a677-82408d9ef275)
 
 ## Technologies Used
