@@ -1,6 +1,8 @@
 
 
-# Shopwave ![ShopWave](https://github.com/Ankit-Ghosh/Shopwave/assets/114979946/17ffec24-e5ed-4ce7-9530-63ae27478768)
+# Shopwave 
+
+![ShopWave](https://github.com/Ankit-Ghosh/Shopwave/assets/114979946/17ffec24-e5ed-4ce7-9530-63ae27478768)
 
 Shopwave is a full-stack e-commerce platform designed to streamline the process of setting up and managing online stores. It provides a user-friendly interface for both customers and administrators, offering features such as product browsing, cart management, and order tracking.
 
